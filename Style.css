@@ -178,4 +178,9 @@ border: 2px solid gray;
 .MilkyUnlock{
     display: none;
 }
-
+#Pause{
+    transition: 4s;
+}
+#Pause:hover{
+    background-color: orange;
+}
